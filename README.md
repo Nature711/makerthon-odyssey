@@ -1,15 +1,3 @@
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -24,7 +12,7 @@
     <br />
     <a href="https://www.nusodyssey.com"><strong>Explore our website »</strong></a>
     <br />
-    <br />
+    
     <a href="https://www.youtube.com/watch?v=Mq4iBlKHxMk&ab_channel=NUSOdyssey">View Demo</a>
     ·
     <a href="https://github.com/nus-teletubbies/makerthon-odyssey/issues">Report Bug</a>
@@ -34,29 +22,27 @@
 </div>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
 <a href="https://github.com/nus-teletubbies/makerthon-odyssey">
-    <img src="src/images/page1.png" alt="web front page" width="60%" height="60%">
+    <img src="src/images/page1.png" alt="web front page" width="80%" height="80%">
   </a>
   </div>
 
 
-Odyssey is a **web app for NUS students to strengthen their mental health and help others.** Here are its main features:
+Following the theme of NUS Makerthon 2022 about mental health, Odyssey is a **web app for NUS students to strengthen their mental health and build a supportive community.** Being an anonymity sharing platform, it encourages students to share their emotions status and possible coping mechanisms while preserving their own privacy. 
+
+Main features of the app includes:
 * Providing tips for students to improve their mental health (e.g. general tips, conversation tips when seeking help, etc...)
 * Providing tips for students to help those around them who are struggling
 * Allowing them to contribute useful solutions to the community
 
-Now you will feel connected and supported when experiencing poor mental health. You will also be more confident to seek help from others when needed!
+In addition, the whole website uses galaxy and planet as the main theme, which aims to transform the tough process of emotional recovery to an exciting journey of space travel and treasure hunting. 
 
-We hope you find Odyssey to be very useful in your adventurous journey to strengthen your mental health and help others!
-
+We hope you find Odyssey useful in your adventurous journey to strengthen your mental health and help others!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -64,9 +50,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [React.js](https://reactjs.org/)
 * [Firebase](https://firebase.google.com/)
-* [Canva](https://www.canva.com/)
-* [Figma](https://www.figma.com/)
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -75,89 +58,33 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- [x] Add Homepage
+- [x] Connect to Firebase backend to fetch data from realtime database
+- [x] Enable User Sign up/ Log in
+- [x] Create User Profile
+- [x] Add Emotion Planets
+- [x] Add Solutions to each Planet
+- [x] Add "Like a solution" feature
+- [x] Create "My Collection" page for user to view liked solutions
+- [x] Add Relics to each Planet
+- [x] Create "Leave a Relic" feature for user to contribute relic
+- [x] Create "My Relics" page for user to view their relics
+- [x] Create "Resources" page to list out complementary resources of the website
+- [x] Add external link for each Solution
+- [ ] Add feature to allow users to create their own plants
+- [ ] Add feature to provide users with more specific solution based on their own profiles
+- [ ] Incorporate Machine Learning to provide more accurate anaylsis of user emotion
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
+* [Canva](https://www.canva.com/) 
+* [Pexels](https://www.pexels.com/)
+* [Framer Motion](https://www.framer.com/motion/)
+* [Styled-components](https://styled-components.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
 
