@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="src/images/logomaker.jpg" alt="Logo" width="40%" height="40%">
+    <img src="src/images/logomaker.jpg" alt="Logo" width="25%" height="25%">
   </a>
 
   <h3 align="center">NUS Odyssey</h3>
@@ -66,7 +66,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<a href="https://github.com/nus-teletubbies/makerthon-odyssey">
+    <img src="src/images/page1.png" alt="web front page" width="60%" height="60%">
+  </a>
+
 
 Odyssey is a **web app for NUS students to strengthen their mental health and help others.** Here are its main features:
 * Providing tips for students to improve their mental health (e.g. general tips, conversation tips when seeking help, etc...)
