@@ -12,7 +12,7 @@
     <br />
     <a href="https://www.nusodyssey.com"><strong>Explore our website »</strong></a>
     <br />
-    
+    <br />
     <a href="https://www.youtube.com/watch?v=Mq4iBlKHxMk&ab_channel=NUSOdyssey">View Demo</a>
     ·
     <a href="https://github.com/nus-teletubbies/makerthon-odyssey/issues">Report Bug</a>
